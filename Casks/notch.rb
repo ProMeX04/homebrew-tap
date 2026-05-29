@@ -1,6 +1,6 @@
 cask "notch" do
   version "1.0.17"
-  sha256 "29c20eb6c3561d6ed2629d83e075e20c2191f85a849185389c2447f8d991370e"
+  sha256 "dc3d252247b74deeb53a4538b498f1fb6e5150bc826333bcc178f488bcb53707"
 
   url "https://github.com/ProMeX04/notch-releases/releases/download/v#{version}/Notch-#{version}.zip"
   name "Notch"
